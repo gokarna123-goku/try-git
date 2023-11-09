@@ -6,3 +6,6 @@ console.log(sum);
 
 
 console.log("Hello There");
+
+
+console.log("This is just for the learning purpose okay");
